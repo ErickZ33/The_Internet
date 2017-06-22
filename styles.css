@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+}
+#wrapper{
+    background-color: white;
+    width: 970px;
+    overflow: hidden;
+}
+.globePic{
+    height: 100px;
+    width: 100px;
+}
+#topPage{
+    display: inline;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#blueBanner{
+    color: white;
+    width: 970px;
+    height: 50px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#2A699A, #5384A8, #2A699A); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#2A699A, #5384A8, #2A699A); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#2A699A, #5384A8, #2A699A); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#2A699A, #5384A8, #2A699A); /* Standard syntax */
+    font-size: 30px;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}   
+#navigation{
+    width: 200px;
+    height: 580px;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: top;
+}
+#navigation p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#navigation h4{
+    margin-top: 20px;
+}
+#watchVideos{
+    width: 150px;
+    height: 30px;
+    background-color: #2A699A;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #888888;
+    padding-left: 45px;
+    padding-top: 10px;
+    color: white;
+}
+#moreResources{
+    width: 150px;
+    height: 30px;
+    background-color: #EF7921;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 2px 2px 5px #888888;
+    padding-left: 45px;
+    padding-top: 10px;
+    color: white;
+}
+#line{
+    width: 200px;
+    height: 30px;
+    margin-top: 5px;
+    padding-top: 10px;
+    margin-right: 0px;
+}
+#backgroundPic{
+    width: 188px;
+    height: 350px;
+    background-image: url("images/ad_background.png");
+    padding: 5px;
+}
+#backgroundPic p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 24px;
+    color: white;
+    height: 60px
+}
+#backgroundPic img{
+    height: 140px;
+    width: 100px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+#learnMore{
+    width: 145px;
+    height: 30px;
+    background-color: #5ECCDC;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: white;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px black;
+}
+#body{
+    display: inline-block;
+    width: 765px;
+}
+#bodyHeader{
+    height: 60px;
+}
+#bodyHeader img{
+    height: 25px;
+    width: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#DNS{
+    display: inline;
+    color: #316F9E;
+}
+#phoneInfo{
+    height: 70px;
+    width: 250px;
+    display: inline-block;
+    float: right;
+}
+#phoneInfo img{
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+    vertical-align: top;
+}
+#numbers{
+    height: 70px;
+    width: 175px;
+    display: inline-block;
+    vertical-align: top;
+}
+#dateTime1{
+    font-size: 10px;
+    text-align: center;
+    margin-top:5px;
+    color: #818181;
+}
+#mainNumber{
+    font-size: 27px;
+    text-align: center;
+    margin-top: 2px;
+    color: #00C0DB;
+}
+.dateTime2{
+    font-size: 10px;
+    text-align: center;
+    margin-top:2px;
+    color: #818181;
+}
+#bodyLine{
+    height: 10px;
+    margin-top: 10px;
+    color: #9F9F9F;
+}
+#clientServer{
+    height: 195px;
+}
+.ul{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.blueFont{
+    color: #236699;
+}
+.ClientServerPic{
+    height: 110px;
+    width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#Questions{
+    height: 250px;
+}
+.QuestionsFont{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.QuestionsFontBlue{
+    color: #236699;
+}
+.QuestionsFont li{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#footer{
+    height: 140px;
+    padding: 5px;
+    border: 5px solid #0086D9;
+}
+.htmlPic{
+    display: inline-block;
+    height: 140px;
+    width: 150px;
+}
+#footerText{
+    height: 140px;
+    width: 580px;
+    display: inline-block;
+    vertical-align: top;
+}
+.footerMargins{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.big3Text{
+    color: #2B6B9C;
+}
+.linkHere{
+    color: #27A7B8;
+    text-decoration: none;
+}
