@@ -1,2 +1,2 @@
 # The_Internet
-HTML/CSS pratice to code the Internet!
+HTML/CSS practice to code the Internet!
